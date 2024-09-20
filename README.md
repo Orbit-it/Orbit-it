@@ -14,9 +14,8 @@ I'm a Full Stack Developer with a passion for creating web and mobile applicatio
 - **AGROVERSE** - AI-powered platform for plant disease detection
 - **FP92** - Online TV channel mobile app
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/serigne-md) or [email me](mailto:serigne@example.com)!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/serigne-mansour-diop-41a0491a7/) or [email me](mailto:mansourdiop0011@gmail.com)!
 
-- 📫 How to reach me, Email: serignemansour.diop@isimsf.u-sfax.tn,   Whatsapp: +216 53 866 594
 
 <!---
 Orbit-it/Orbit-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
