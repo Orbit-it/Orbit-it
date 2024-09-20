@@ -8,7 +8,7 @@ I'm a Full Stack Developer with a passion for creating web and mobile applicatio
 - Tools: Docker, Git, AWS
 
 ## 📊 GitHub Stats
-![Serigne's GitHub stats](https://github-readme-stats.vercel.app/api?username=serigne-md&show_icons=true&theme=radical)
+![Serigne's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbit-it-md&show_icons=true&theme=radical)
 
 ## 🚀 Current Projects
 - **AGROVERSE** - AI-powered platform for plant disease detection
