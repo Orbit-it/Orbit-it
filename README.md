@@ -4,19 +4,37 @@
 
 ![Logo d'Orbit-it](logo_orbitit.png) <!-- Remplacez par le chemin de votre image -->
 
-**Orbit-it** est une entreprise innovante spécialisée dans le développement de solutions logicielles pour le web et le mobile. Notre mission est de créer des applications performantes et intuitives qui répondent aux besoins de nos clients et améliorent leur expérience utilisateur. Nous nous engageons à utiliser les dernières technologies et pratiques de développement pour garantir des produits de haute qualité.
+**Orbit-it** est une entreprise innovante spécialisée dans la recherche et le développement, ainsi que dans le développement de solutions logicielles pour le web et le mobile. Notre mission est de créer des applications performantes et intuitives qui répondent aux besoins de nos clients et améliorent leur expérience utilisateur. Nous nous engageons à utiliser les dernières technologies et pratiques de développement pour garantir des produits de haute qualité.
+
+## Projets en Cours
+
+### 1. [Mouhidine](lien_vers_le_projet)
+
+![Logo de Mouhidine](Mohidine.png) <!-- Remplacez par le chemin de votre image -->
+
+Le projet **Mohidine** s'inspire des théories du savant **Cheikh Mouhidine Samba Diallo** et vise à optimiser les algorithmes de la **Théorie de la Fonctionnelle de la Densité (DFT)** en intégrant des techniques d'intelligence artificielle. Ce projet est actuellement en cours de recherche et développement et est conçu pour répondre aux besoins des chercheurs en physique des matériaux.
+
+#### Objectifs du Projet
+- **Amélioration des Algorithmes DFT :** Utilisation de l'intelligence artificielle pour affiner les calculs de DFT, rendant les simulations plus précises et plus rapides.
+- **Modélisation Avancée :** Développement d'outils de simulation pour modéliser le transport d'énergie et les propriétés des matériaux dans divers domaines, y compris l'électronique, la nanotechnologie et la science des matériaux.
+- **Collaboration Interdisciplinaire :** Encourager les partenariats avec des institutions académiques et des laboratoires de recherche pour valider et appliquer les résultats du projet.
+
+### Applications Pratiques
+Le logiciel **Mohidine** sera un outil précieux pour les chercheurs, leur permettant de simuler et d'analyser des phénomènes complexes liés à la structure et aux propriétés des matériaux, tout en optimisant les performances des systèmes énergétiques.
 
 ## Nos Services
 
+- **Recherche et Développement :** Exploration de nouvelles technologies et méthodes pour résoudre des problèmes complexes dans divers domaines, en mettant l'accent sur l'innovation.
+  
 - **Développement Web :** Création de sites web dynamiques et responsives utilisant les technologies les plus récentes comme React, Angular, et Node.js.
   
 - **Développement Mobile :** Conception d'applications mobiles pour iOS et Android, en utilisant des frameworks comme React Native et Flutter pour garantir une expérience utilisateur optimale.
 
 - **Intelligence Artificielle :** Intégration de solutions d'intelligence artificielle pour améliorer les performances des applications et offrir des fonctionnalités avancées, notamment dans le domaine de la modélisation et de l'analyse de données.
 
-## Nos Clients
+## Ils nous font confiance
 
-<div style="overflow-x: auto; white-space: wrap;">
+<div style="overflow-x: auto; white-space: nowrap;">
     <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin-right: 10px;">
     <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin-right: 10px;">
     <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin-right: 10px;">
@@ -24,30 +42,6 @@
     <!-- Ajoutez d'autres logos ici -->
 </div>
 
-## Projets en Cours
-
-### 1. [Optimisation des Algorithmes DFT à l'aide de l'IA pour la Modélisation du Transport d'Énergie](lien_vers_le_projet)
-
-Ce projet vise à optimiser les algorithmes de la Théorie de la Fonctionnelle de la Densité (DFT) en utilisant des techniques d'intelligence artificielle pour améliorer la modélisation du transport d'énergie.
-
-### Projets Développés
-
-- ![Logo de l'application 1](zestymarine.png) [Zesty-marine](https://www.zesty-marine.com) - Une brève description de ce projet.
-- ![Logo de l'application 2](hadjibeauty.png) [Hadji Beauty](https://www.hadjibeauty.com) - Une brève description de ce projet.
-- ![Logo de l'application 3](atad.png) [Atad](lien_vers_application_3) - Une brève description de ce projet.
-
-## Technologies Utilisées
-
-- **Langages de programmation :** C++, Python, JavaScript
-- **Frameworks :** React, Node.js, TensorFlow, PyTorch
-- **Base de données :** PostgreSQL, MongoDB, MS-SQL
-
 ## Contribuer à Orbit-it
 
 Nous encourageons les contributions de la communauté pour améliorer nos projets et créer des solutions innovantes. Si vous souhaitez contribuer, veuillez suivre les étapes suivantes :
-
-1. **Forker le dépôt.**
-2. **Créer une nouvelle branche :**
-
-   ```bash
-   git checkout -b feature/YourFeature
