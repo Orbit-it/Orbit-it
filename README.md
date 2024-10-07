@@ -2,7 +2,7 @@
 
 ## Présentation de l'entreprise
 
-![Logo d'Orbit-it](images/logo.png) <!-- Remplacez par le chemin de votre image -->
+![Logo d'Orbit-it](logo_orbitit.png) <!-- Remplacez par le chemin de votre image -->
 
 **Orbit-it** est une entreprise innovante spécialisée dans le développement de solutions logicielles pour le web et le mobile. Notre mission est de créer des applications performantes et intuitives qui répondent aux besoins de nos clients et améliorent leur expérience utilisateur. Nous nous engageons à utiliser les dernières technologies et pratiques de développement pour garantir des produits de haute qualité.
 
@@ -22,8 +22,8 @@ Ce projet vise à optimiser les algorithmes de la Théorie de la Fonctionnelle d
 
 ### Projets Développés
 
-- ![Logo de l'application 1](images/logo_app1.png) [Nom de l'application/site 1](lien_vers_application_1) - Une brève description de ce projet.
-- ![Logo de l'application 2](images/logo_app2.png) [Nom de l'application/site 2](lien_vers_application_2) - Une brève description de ce projet.
+- ![Logo de l'application 1](images/zestymarine.png) [Zesty-marine](https://www.zesty-marine.com) - Une brève description de ce projet.
+- ![Logo de l'application 2](images/hadjibeauty.png) [Hadji Beauty](https://www.hadjibeauty.com) - Une brève description de ce projet.
 - ![Logo de l'application 3](images/logo_app3.png) [Nom de l'application/site 3](lien_vers_application_3) - Une brève description de ce projet.
 
 ## Technologies Utilisées
