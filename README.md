@@ -2,7 +2,7 @@
 
 ## Présentation de l'entreprise
 
-<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;>
+<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px;>
     <img src="logo_orbitit.png" alt="Logo d'Orbit-it" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
