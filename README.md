@@ -45,7 +45,7 @@ Le logiciel **Mohidine** sera un outil précieux pour les chercheurs, leur perme
     <a href="https://www.hadjibeauty.com" target="_blank">
         <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin: 0 20px;">
     </a>
-    <a href="https://www.nfp92.com" target="_blank">
+    <a href="https://play.google.com/apps/testing/tv.fp92" target="_blank">
         <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin: 0 20px;">
     </a>
     <a href="https://www.atad-tn.com" target="_blank">
