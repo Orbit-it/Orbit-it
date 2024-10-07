@@ -3,9 +3,8 @@
 ## Présentation de l'entreprise
 
 <div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
-    <img src="logo_orbitit.png" alt="Logo de Mouhidine" style="border-radius: 10px; max-width: 100%; height: auto;" /> <!-- Remplacez par le chemin de votre image -->
+    <img src="logo_orbitit.png" alt="Logo d'Orbit-it" style="border-radius: 10px; max-width: 100%; height: auto;" /> <!-- Remplacez par le chemin de votre image -->
 </div>
-
 
 **Orbit-it** est une entreprise innovante spécialisée dans la recherche et le développement, ainsi que dans le développement de solutions logicielles pour le web et le mobile. Notre mission est de créer des applications performantes et intuitives qui répondent aux besoins de nos clients et améliorent leur expérience utilisateur. Nous nous engageons à utiliser les dernières technologies et pratiques de développement pour garantir des produits de haute qualité.
 
@@ -17,7 +16,7 @@
     <img src="Mohidine.png" alt="Logo de Mouhidine" style="border-radius: 10px; max-width: 100%; height: auto;" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
-Le projet **Mohidine** s'inspire des travaux du savant **Cheikh Mouhidine Samba Diallo** et vise à optimiser les algorithmes de la **Théorie de la Fonctionnelle de la Densité (DFT)** en intégrant des techniques d'intelligence artificielle. Ce projet est actuellement en cours de recherche et développement et est conçu pour répondre aux besoins des chercheurs en physique des matériaux.
+Le projet **Mohidine** s'inspire des **hypothèses et théories** du savant **Cheikh Mouhidine Samba Diallo** et vise à optimiser les algorithmes de la **Théorie de la Fonctionnelle de la Densité (DFT)** en intégrant des techniques d'intelligence artificielle. Ce projet est actuellement en cours de recherche et développement et est conçu pour répondre aux besoins des chercheurs en physique des matériaux.
 
 #### Objectifs du Projet
 - **Amélioration des Algorithmes DFT :** Utilisation de l'intelligence artificielle pour affiner les calculs de DFT, rendant les simulations plus précises et plus rapides.
@@ -40,10 +39,18 @@ Le logiciel **Mohidine** sera un outil précieux pour les chercheurs, leur perme
 ## Ils nous font confiance
 
 <div style="overflow-x: auto; white-space: nowrap; text-align: center;">
-    <a href="https://www.zesty-marine.com" target="_blank" <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin: 0 20px;"> </a>
-    <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin: 0 20px;">
-    <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin: 0 20px;">
-    <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin: 0 20px;">
+    <a href="https://www.zesty-marine.com" target="_blank">
+        <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin: 0 20px;">
+    </a>
+    <a href="https://www.hadjibeauty.com" target="_blank">
+        <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin: 0 20px;">
+    </a>
+    <a href="https://www.nfp92.com" target="_blank">
+        <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin: 0 20px;">
+    </a>
+    <a href="https://www.atad-tn.com" target="_blank">
+        <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin: 0 20px;">
+    </a>
     <!-- Ajoutez d'autres logos ici -->
 </div>
 
