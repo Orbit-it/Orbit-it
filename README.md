@@ -2,17 +2,21 @@
 
 ## Présentation de l'entreprise
 
-![Logo d'Orbit-it](logo_orbitit.png) <!-- Remplacez par le chemin de votre image -->
+<div style="text-align: center;">
+    <img src="logo_orbitit.png" alt="Logo d'Orbit-it" /> <!-- Remplacez par le chemin de votre image -->
+</div>
 
 **Orbit-it** est une entreprise innovante spécialisée dans la recherche et le développement, ainsi que dans le développement de solutions logicielles pour le web et le mobile. Notre mission est de créer des applications performantes et intuitives qui répondent aux besoins de nos clients et améliorent leur expérience utilisateur. Nous nous engageons à utiliser les dernières technologies et pratiques de développement pour garantir des produits de haute qualité.
 
 ## Projets en Cours
 
-### 1. [Mouhidine](lien_vers_le_projet)
+### 1. [Mohidine](lien_vers_le_projet)
 
-![Logo de Mouhidine](Mohidine.png) <!-- Remplacez par le chemin de votre image -->
+<div style="text-align: center;">
+    <img src="Mohidine.png" alt="Logo de Mouhidine" /> <!-- Remplacez par le chemin de votre image -->
+</div>
 
-Le projet **Mohidine** s'inspire des théories du savant **Cheikh Mouhidine Samba Diallo** et vise à optimiser les algorithmes de la **Théorie de la Fonctionnelle de la Densité (DFT)** en intégrant des techniques d'intelligence artificielle. Ce projet est actuellement en cours de recherche et développement et est conçu pour répondre aux besoins des chercheurs en physique des matériaux.
+Le projet **Mohidine** s'inspire des travaux du savant **Cheikh Mouhidine Samba Diallo** et vise à optimiser les algorithmes de la **Théorie de la Fonctionnelle de la Densité (DFT)** en intégrant des techniques d'intelligence artificielle. Ce projet est actuellement en cours de recherche et développement et est conçu pour répondre aux besoins des chercheurs en physique des matériaux.
 
 #### Objectifs du Projet
 - **Amélioration des Algorithmes DFT :** Utilisation de l'intelligence artificielle pour affiner les calculs de DFT, rendant les simulations plus précises et plus rapides.
@@ -34,14 +38,14 @@ Le logiciel **Mohidine** sera un outil précieux pour les chercheurs, leur perme
 
 ## Ils nous font confiance
 
-<div style="overflow-x: auto; white-space: nowrap;">
-    <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin-right: 10px;">
-    <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin-right: 10px;">
-    <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin-right: 10px;">
-    <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin-right: 10px;">
+<div style="overflow-x: auto; white-space: nowrap; text-align: center;">
+    <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin: 0 20px;">
+    <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin: 0 20px;">
+    <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin: 0 20px;">
+    <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin: 0 20px;">
     <!-- Ajoutez d'autres logos ici -->
 </div>
 
 ## Contribuer à Orbit-it
 
-Nous encourageons les contributions de la communauté pour améliorer nos projets et créer des solutions innovantes. Si vous souhaitez contribuer, veuillez suivre les étapes suivantes :
+Nous encourageons les contributions de la communauté pour améliorer nos projets et créer des solutions innovantes. Si vous souhaitez contribuer, veuillez nous contacter par mail : [contact@orbit-it.io](mailto:contact@orbit-it.io) ou par WhatsApp : +216 53 866 594.
