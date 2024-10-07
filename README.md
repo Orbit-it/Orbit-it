@@ -40,7 +40,7 @@ Le logiciel **Mohidine** sera un outil précieux pour les chercheurs, leur perme
 ## Ils nous font confiance
 
 <div style="overflow-x: auto; white-space: nowrap; text-align: center;">
-    <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin: 0 20px;">
+    <a href="https://www.zesty-marine.com" target="_blank" <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin: 0 20px;"> </a>
     <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin: 0 20px;">
     <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin: 0 20px;">
     <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin: 0 20px;">
