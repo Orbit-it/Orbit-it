@@ -2,7 +2,7 @@
 
 ## Présentation de l'entreprise
 
-<div style="text-align: center;">
+<div style="text-align: center; align-items:center">
     <img src="logo_orbitit.png" alt="Logo d'Orbit-it" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
