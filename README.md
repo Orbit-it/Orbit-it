@@ -2,7 +2,7 @@
 
 ## Présentation de l'entreprise
 
-<div style="text-align: center; align-items:center">
+<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;>
     <img src="logo_orbitit.png" alt="Logo d'Orbit-it" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 1. [Mohidine](lien_vers_le_projet)
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;> 
     <img src="Mohidine.png" alt="Logo de Mouhidine" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
