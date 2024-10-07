@@ -16,10 +16,10 @@
 
 ## Nos Clients
 
-<div style="overflow-x: auto; white-space: nowrap;">
+<div style="overflow-x: auto; white-space: wrap;">
     <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin-right: 10px;">
     <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin-right: 10px;">
-    <img src="fp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin-right: 10px;">
+    <img src="nfp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin-right: 10px;">
     <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin-right: 10px;">
     <!-- Ajoutez d'autres logos ici -->
 </div>
