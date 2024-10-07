@@ -12,8 +12,8 @@
 
 ### 1. [Mohidine](lien_vers_le_projet)
 
-<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;> 
-    <img src="Mohidine.png" alt="Logo de Mouhidine" /> <!-- Remplacez par le chemin de votre image -->
+<div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
+    <img src="Mohidine.png" alt="Logo de Mouhidine" style="border-radius: 10px; max-width: 100%; height: auto;" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
 Le projet **Mohidine** s'inspire des travaux du savant **Cheikh Mouhidine Samba Diallo** et vise à optimiser les algorithmes de la **Théorie de la Fonctionnelle de la Densité (DFT)** en intégrant des techniques d'intelligence artificielle. Ce projet est actuellement en cours de recherche et développement et est conçu pour répondre aux besoins des chercheurs en physique des matériaux.
