@@ -22,9 +22,9 @@ Ce projet vise à optimiser les algorithmes de la Théorie de la Fonctionnelle d
 
 ### Projets Développés
 
-- ![Logo de l'application 1](images/zestymarine.png) [Zesty-marine](https://www.zesty-marine.com) - Une brève description de ce projet.
-- ![Logo de l'application 2](images/hadjibeauty.png) [Hadji Beauty](https://www.hadjibeauty.com) - Une brève description de ce projet.
-- ![Logo de l'application 3](images/logo_app3.png) [Nom de l'application/site 3](lien_vers_application_3) - Une brève description de ce projet.
+- ![Logo de l'application 1](zestymarine.png) [Zesty-marine](https://www.zesty-marine.com) - Une brève description de ce projet.
+- ![Logo de l'application 2](hadjibeauty.png) [Hadji Beauty](https://www.hadjibeauty.com) - Une brève description de ce projet.
+- ![Logo de l'application 3](atad.png) [Atad](lien_vers_application_3) - Une brève description de ce projet.
 
 ## Technologies Utilisées
 
