@@ -14,6 +14,16 @@
 
 - **Intelligence Artificielle :** Intégration de solutions d'intelligence artificielle pour améliorer les performances des applications et offrir des fonctionnalités avancées, notamment dans le domaine de la modélisation et de l'analyse de données.
 
+## Nos Clients
+
+<div style="overflow-x: auto; white-space: nowrap;">
+    <img src="zestymarine.png" alt="Client 1" style="display: inline-block; width: 150px; margin-right: 10px;">
+    <img src="hadjibeauty.png" alt="Client 2" style="display: inline-block; width: 150px; margin-right: 10px;">
+    <img src="fp92.png" alt="Client 3" style="display: inline-block; width: 150px; margin-right: 10px;">
+    <img src="atad.png" alt="Client 4" style="display: inline-block; width: 150px; margin-right: 10px;">
+    <!-- Ajoutez d'autres logos ici -->
+</div>
+
 ## Projets en Cours
 
 ### 1. [Optimisation des Algorithmes DFT à l'aide de l'IA pour la Modélisation du Transport d'Énergie](lien_vers_le_projet)
