@@ -3,7 +3,7 @@
 ## Présentation de l'entreprise
 
 <div style="display: flex; justify-content: center; align-items: center; border-radius: 10px; overflow: hidden;">
-    <img src="logo_orbitit.png" alt="Logo d'Orbit-it" style="border-radius: 10px; max-width: 100%; height: auto;" /> <!-- Remplacez par le chemin de votre image -->
+    <img src="logo-orbit.png" alt="Logo d'Orbit-it" style="border-radius: 10px; max-width: 100%; height: auto;" /> <!-- Remplacez par le chemin de votre image -->
 </div>
 
 **Orbit-it** est une entreprise innovante spécialisée dans la recherche et le développement, ainsi que dans le développement de solutions logicielles pour le web et le mobile. Notre mission est de créer des applications performantes et intuitives qui répondent aux besoins de nos clients et améliorent leur expérience utilisateur. Nous nous engageons à utiliser les dernières technologies et pratiques de développement pour garantir des produits de haute qualité.
