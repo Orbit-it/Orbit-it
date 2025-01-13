@@ -4,6 +4,24 @@ Welcome to my GitHub! I am a passionate developer with expertise in creating cus
 
 ---
 
+## 💼 Skills & Expertise
+
+### **Programming Languages**
+- **C++**: Development of Warehouse Control Systems (WCS) for automated equipment and custom integrations with ERP systems.
+- **Python**: Backend development with **Django** for scalable web applications and APIs.
+- **JavaScript**: Expertise in **React**, **React Native**, and **Node.js** for dynamic web and mobile applications.
+
+### **Industrial Communication**
+- **ModbusTCP**: Experience in implementing communication protocols for industrial automation and system monitoring.
+
+### **Web Development**
+- Full-stack development with **Django**, **React**, and RESTful APIs.
+- Custom UI/UX design for seamless user experiences.
+
+### **Process Optimization**
+- Integration of ERP systems with tailored solutions to optimize workflows and productivity in manufacturing environments.
+
+---
 ## 🌟 Key Projects
 
 <div style="text-align: center;">
@@ -25,26 +43,6 @@ Welcome to my GitHub! I am a passionate developer with expertise in creating cus
 </a>
 
 </div>
-
----
-
-## 💼 Skills & Expertise
-
-### **Programming Languages**
-- **C++**: Development of Warehouse Control Systems (WCS) for automated equipment and custom integrations with ERP systems.
-- **Python**: Backend development with **Django** for scalable web applications and APIs.
-- **JavaScript**: Expertise in **React**, **React Native**, and **Node.js** for dynamic web and mobile applications.
-
-### **Industrial Communication**
-- **ModbusTCP**: Experience in implementing communication protocols for industrial automation and system monitoring.
-
-### **Web Development**
-- Full-stack development with **Django**, **React**, and RESTful APIs.
-- Custom UI/UX design for seamless user experiences.
-
-### **Process Optimization**
-- Integration of ERP systems with tailored solutions to optimize workflows and productivity in manufacturing environments.
-
 ---
 
 ## 📫 Get in Touch
